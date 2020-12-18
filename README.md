@@ -16,3 +16,6 @@ To install theme into Spotify run `spiceify [folder name]`.
 
 ### Help My sidebars are gone
 Side bars are hidden by default, hover over the edge to reveal them. this can be changed in `user.css`.
+
+### Wallpaper
+I included the wallpaper I used for the colors.
